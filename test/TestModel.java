@@ -1,3 +1,4 @@
+import com.cod.mvc.Model;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
@@ -5,6 +6,8 @@ import static org.junit.Assert.*;
 import static org.junit.jupiter.api.Assertions.*;
 
 public class TestModel {
+    private Model model;
+    public Coche coche;
 
     @BeforeEach
     public void setUp() {

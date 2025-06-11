@@ -8,7 +8,7 @@ import java.util.ArrayList;
  */
 public class Model {
     // array de coches
-    static ArrayList<Coche> parking = new ArrayList<>();
+    public static ArrayList<Coche> parking = new ArrayList<>();
 
     /**
      * Notifica a los observadores
