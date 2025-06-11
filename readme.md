@@ -5,5 +5,5 @@
 * Paso2: Creé una rama nueva llama <code>Readme</code> donde hare las anotaciones en un archivo de texto <code>.md</code> sobre los pasos que ire ejecutando
 * Paso3: En la rama <code>pre-observer</code> creare test de las clases <code>Model</code> y <code>Controller</code>
 * Paso4: creare un issue por cada test en github....
-* 
-* 
+* Psaso5: Cerra los issues con commits
+* paso6: Hacer pull request
